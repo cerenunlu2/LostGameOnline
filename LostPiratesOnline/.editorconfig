@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0063: Basit 'using' deyimini kullan
+dotnet_diagnostic.IDE0063.severity = none
